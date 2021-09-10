@@ -1,0 +1,20 @@
+{
+  "name": "check-internet",
+  "version": "1.0.0",
+  "description": "Crea reportes de la disponibilidad de internet en casa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfuentes/check-internet.git"
+  },
+  "author": "Héctor Fuentes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hfuentes/check-internet/issues"
+  },
+  "homepage": "https://github.com/hfuentes/check-internet#readme"
+}
